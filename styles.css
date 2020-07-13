@@ -1,0 +1,79 @@
+.carousel-inner{
+	height: 400px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+
+.navbar{
+	position: relative;
+	min-height: 50px;
+	margin-bottom: 0px;
+	border: 1px solid transparent;
+}
+
+.carousel-indicators{
+	bottom: 0px;
+	z-index: 15;
+	text-align: none;
+	list-style: none;
+}
+.text-center{
+	text-align: center;
+	margin-bottom: 0px;
+	color: yellow;
+}
+.row{
+	margin-right: -15px;
+	margin-left: -15px;
+	margin-bottom: 50px;
+}
+.you{
+	margin-top: 0px;
+	text-align: center;
+}
+
+h2{
+	padding-top: 30px;
+	margin-bottom: 0px;
+	color: black;
+}
+
+
+
+p{
+	margin: 0px;
+}
+.plan{
+	color: black;
+	margin-bottom: 30px;
+	margin-top: none;
+}
+
+.me{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: orange;
+
+}
+.us{
+	color: white;
+}
+
+.footer{
+	color: white;
+	background-color: darkblue;
+	display: grid;
+	justify-content: space-between;
+	justify-content: space-around;
+	grid-template-columns: auto auto
+	auto;
+	margin-bottom: 50px;
+}
+.grid-container{
+	margin-bottom: 20px
+}
+
+
+
+
